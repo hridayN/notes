@@ -1,0 +1,15 @@
+Inner Join:
+Only the matching rows are returned and unmatched rows are not included in the result
+
+LEFT Join:
+Return all rows from left table + matching rows from both tables
+
+RIGHT Join:
+Return matching rows from both tables + all rows from right table
+
+Full Join:
+Return all matching records from both tables + unmatching records from left table + unmatching records from right table
+
+Cross Join:
+Cartesian product of all rows in both tables
+There's no use of ON keyword in Cross join
